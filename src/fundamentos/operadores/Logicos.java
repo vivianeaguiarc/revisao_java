@@ -3,9 +3,7 @@ package fundamentos.operadores;
 public class Logicos {
 
 	public static void main(String[] args) {
-		
-<<<<<<< HEAD
-=======
+	
 		boolean condicao1 = true;
 		boolean condicao2 = 3 > 7;
 
@@ -37,7 +35,6 @@ public class Logicos {
 		System.out.println("Tabela verdade NOT");
 		System.out.println(!true);
 		System.out.println(!false);
->>>>>>> 459ac74 (feat: fundamentos - operadores)
 
 	}
 
